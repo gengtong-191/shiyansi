@@ -43,7 +43,7 @@
 5.加入try-catch函数做异常处
 
 ##五.核心代码
- 
+ ```a
  for(int i=0;i<2;i++) {
 	            Graduate graduate1 = new Graduate();
 	            Graduate graduate2 = new Graduate();
@@ -70,7 +70,7 @@
 	                System.out.println("输入有问题，再次输入");
 	                i--;
 	            }
-
+```
 ##六.实验结果
 
 ##七.实验感想
