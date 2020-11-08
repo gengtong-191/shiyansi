@@ -73,4 +73,10 @@
 ```
 ##六.实验结果
 
+![a](https://github.com/gengtong-191/shiyansi/blob/main/62d39ffebc90e518a8ece1506b025af.png)
+
 ##七.实验感想
+
+通过这次试验，对for和和scaaner有了更深刻的了解，初次应用了try-catch，对异常处理有了新的认识
+
+interface定义接口，implement实现接口，抽象类既可以重写接口中的方法，也能直接拥有接口中的方法，还有重写接口的方法在实验中的应用，对java有了进一步的认识。
